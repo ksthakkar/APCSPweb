@@ -1,0 +1,26 @@
+Website Checklist:
+
+<!keep it simple!>
+
+*********DELETE Before HOSTING ON GITHUB*********
+
+Check Submissiobn Requirements before hosting 
+
+Create DIV CLASSES For ALL IN CSS
+
+
+Homepage:
+    - Add Current Portfolio and about me extra links on Homepage
+    - Scrolling upwards type about me 
+    - Add same video to about me page
+    - Transitions
+
+Portfolio:
+    - Mainly Empty for now, add a project such as gamedev(EB) or frc-emotion GITHUB
+    
+Aboutme:
+    - add images for f1, frc, coding, gamedev, quzibowl, etc.
+    - Write a short pargraph about myself
+
+
+Extra:

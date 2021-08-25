@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    z-index: 0;
+}
+
+
+#particles-js {
+
+    height: 100%;
+    background: rgb(26,26,29);
+background: linear-gradient(90deg, rgba(26,26,29,1) 0%, rgba(38,93,1,1) 0%, rgba(61,61,61,1) 0%, rgba(4,82,1,1) 74%);
+    background-size: 120%;
+    z-index: 0;
+    
+  }
+
+  
+.mame134 h1{
+    position: absolute;
+    z-index: 0;
+    background-color: rgba(255, 255, 255, 0);
+    width: 0px;
+    height:0px;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background-color: transparent;
+}
+
