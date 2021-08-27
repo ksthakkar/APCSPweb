@@ -3,10 +3,12 @@
     src: url(Lato-Thin.ttf);
 }
 
+@media screen and (max-width: 320px) { @viewport { width: 320px; } }
+
 html,
 body {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 20px;
 }
 
 .background {
@@ -35,7 +37,7 @@ body {
 }
 
 html {
-   overflow-y: hidden;
+   overflow-y: scroll;
     overflow-x: hidden;
 }
 
