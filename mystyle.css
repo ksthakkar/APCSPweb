@@ -3,12 +3,16 @@
     src: url(Lato-Thin.ttf);
 }
 
+
 @media screen and (max-width: 320px) { @viewport { width: 320px; } }
 
 html,
 body {
   margin: 5px;
   padding: 0;
+  width:100%;
+  min-width:1000px;
+  height:auto;
 }
 
 .background {
