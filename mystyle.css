@@ -60,15 +60,30 @@ h1 {
 }
 
 .title {
-    /*position: absolute;
+    position: absolute;
     color: rgb(250, 250, 250);
     top: 300px;
     font-size: 350%;
-    /*left: 650px;
+    left: 650px;
     font-size: 350%;
     text-align: center;
-    transform: translateZ(0);*/
-    /*z-index: 0;*/
+    transform: translateZ(0);
+    z-index: 0;
+
+
+}
+
+.home {
+    /*position: absolute;
+    color: rgb(250, 250, 250);
+    top: 50px;
+    left: 1030px;
+    font-size: 150%;
+    text-align: center;
+    font-weight: bold;
+    transform: translateZ(0);
+    font-size: 150%;
+    */
     position: absolute;
     color: rgb(250, 250, 250);
     top: 150px;
@@ -78,20 +93,6 @@ h1 {
     text-align: center;
     transform: translateZ(0);
     z-index: 0;
-}
-
-}
-
-.home {
-    position: absolute;
-    color: rgb(250, 250, 250);
-    top: 50px;
-    left: 1030px;
-    font-size: 150%;
-    text-align: center;
-    font-weight: bold;
-    transform: translateZ(0);
-    font-size: 150%;
 }
 
 
