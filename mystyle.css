@@ -60,7 +60,7 @@ h1 {
 }
 
 .title {
-    position: center;
+    position: absolute;
     color: rgb(250, 250, 250);
     top: 300px;
     font-size: 350%;
