@@ -1,17 +1,17 @@
 body{
     margin: 0;
     padding: 0;
-    height: 900vh;
+    height: 400vh;
     z-index: 0;
 }
 
 
 #particles-js {
 
-    height: 200%;
+    height: 100%;
     background: rgb(26,26,29);
 background: linear-gradient(90deg, rgba(26,26,29,1) 0%, rgba(38,93,1,1) 0%, rgba(61,61,61,1) 0%, rgba(4,82,1,1) 74%);
-    background-size: 180%;
+    background-size: 120%;
     z-index: 0;
     
   }
